@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Aprendiendo el asincronismo en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node /home/jagarcia/Platzi/asincronismo/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "\"Jose Anibal Garcia Giraldo <jagarcia7655@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
