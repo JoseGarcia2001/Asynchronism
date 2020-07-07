@@ -1,5 +1,5 @@
 const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-const API = "https://rickandmortyapi.com/api/character/";
+const API = "https://swapi.dev/api/people/1/";
 
 const getInfo = (url, callback) => {
   const xhttp = new XMLHttpRequest();
